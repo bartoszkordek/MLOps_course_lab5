@@ -6,5 +6,8 @@ __pycache__/
 .dvc/tmp/
 .dvc/config.local
 
-/data/
+data/*
+!data/*.dvc
+!data/.gitignore
+
 /remote_data/
