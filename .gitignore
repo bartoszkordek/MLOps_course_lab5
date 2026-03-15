@@ -1,2 +1,10 @@
 .idea/
 .venv/
+__pycache__/
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+
+/data/
+/remote_data/
