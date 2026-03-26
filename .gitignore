@@ -11,3 +11,8 @@ data/*
 !data/.gitignore
 
 /remote_data/
+
+# MLflow
+mlflow.db
+mlflow-artifacts/
+mlruns/
